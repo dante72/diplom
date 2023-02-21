@@ -9,11 +9,11 @@ https://docs.google.com/presentation/d/1KJD9cZONEYgloklh4ni-t-uVKmisTxFofmyttJ_5
 Клиент-серверное веб-приложение:
 https://github.com/dante72/ChessGameWebApp
 
-Клиент Unity-приложение:
+Unity клиент:
 https://github.com/dante72/ChessGameProjectArt
 
 ### Инструкция по установке
 
-Для запуска web-приложения необходима Visual Studio 2022 (.net 6.0)
+Для запуска web-приложения необходима Visual Studio 2022 (net 6.0)
 
 Для запуска Unity-приложения - Unity3d v2022.2.0f1. Предварительно необходимо опубликовать (выгрузить dll-ки) библиотеку ChessGameClient из web-проета в любую новую папку проекта Unity.
